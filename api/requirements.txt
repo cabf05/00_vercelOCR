@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-pdf2image
-doctr
-pillow
-numpy
