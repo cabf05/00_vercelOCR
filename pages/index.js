@@ -27,7 +27,7 @@ export default function Home() {
 
   return (
     <main style={{ padding: 24, maxWidth: 800, margin: "0 auto" }}>
-      <h1>Extrator de Texto de PDFs</h1>
+      <h1>Extrator de Texto de PDFs2</h1>
       <p>Envie um PDF e receba o texto extraído pelo docTR.</p>
 
       <input
